@@ -1,0 +1,139 @@
+/* You can put your own style here */
+
+body {
+	background-image: url("../images/backgwed.jpg") ; 
+	font-family: "open sans"
+}
+
+#footer {
+	background-color : black;
+	color: #aaaaaa;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+.feature a { 
+	color: #000000;
+}
+
+.feature a:hover {
+	color: #333399;
+	}
+
+.homepagebutton {
+	height:10em;
+}
+
+.buttonhome {
+	text-align: center;
+	vertical-align: middle
+}
+
+.overlay img {
+height:50px;
+width: 100px;
+}
+
+#footer a {
+	color: #aaaaaa;
+}
+
+#footer a:hover {
+	color: #dddddd;
+	fon
+	}
+
+.social { 
+font-size : 30px;
+
+}
+
+#photocover {
+background-image: url("../images/plandeldia.png");
+	height:650px;
+	background-size: cover;
+	vertical-align: middle;
+}
+
+#photocover h1 {
+	font-size: 55px;
+	color: white;
+
+}
+
+#wrapper {
+	background-image: url("../images/Sansebastian mar.jpg");
+	height:450px;
+	background-size: cover;
+	text-align: center ;
+	padding-top: 45px;
+	color: white;
+	text-shadow:2px 2px 5px rgba(0,0,0,0.5);
+}
+
+#wrapper h1 {
+	font-size: 55px;
+}
+
+#wrapper a:hover {
+	color:yellow;
+}
+
+#wrapper a {
+	color:white;
+}
+
+
+
+.btn {
+	font-size:18px;
+}
+
+.spacer {
+	height: 2em;
+}
+
+.vertical-spacer{
+	height: 3em;
+}
+
+.feature p {
+	font-weight: 300;
+	letter-spacing: 1px;
+}
+
+.vertical-spacer-small {
+	height: 1em;
+}
+
+
+.feature img {
+	margin-bottom: 2em;
+	border-image-slice: 
+}
+
+.navbar-transparente { 
+background-color: rgba(0,0,0,0.7);
+color: black;
+}
+
+.navbar-transparente .navbar-brand,
+.navbar-transparente .navbar-nav > li > a {
+	color: #eeeeee;
+}
+
+.navbar-transparente .navbar-brand:hover,
+.navbar-transparente .navbar-brand:active,
+.navbar-transparente .navbar-brand:focus,
+.navbar-transparente .navbar-nav > li > a:hover,
+.navbar-transparente .navbar-nav > li > a:active,
+.navbar-transparente .navbar-nav > li > a:focus,
+
+.navbar-transparente .navbar-nav > .open > a,
+.navbar-transparente .navbar-nav > .open > a:hover, 
+.navbar-transparente .navbar-nav > .open > a:focus {
+	color: white;
+	background-color: rgba (0,0,0,0.3)
+}
+}
+	
