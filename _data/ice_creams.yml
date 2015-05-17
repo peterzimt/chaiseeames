@@ -1,0 +1,24 @@
+- filename: museum.png
+  catogory: "museum"
+  color: "black and white"
+  flavor: "Test 1"
+ 
+- filename: tiger.png
+  catogory: "animal"
+  color: "color"
+  flavor: "Test 2"
+ 
+- filename: human.png
+  catogory: "animal"
+  color: "color"
+  flavor: "Test 3"
+ 
+- filename: house.png
+  catogory: "animal"
+  color: "black and white"
+  flavor: "Test 4"
+ 
+- filename: birds.png
+  catogory: "animal"
+  color: "black and white"
+  flavor: "Test 5"
