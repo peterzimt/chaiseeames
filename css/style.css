@@ -40,12 +40,15 @@ width: 100px;
 
 #footer a:hover {
 	color: #dddddd;
-	fon
 	}
 
 .social { 
 font-size : 30px;
 
+}
+
+.centerthis {
+	text-align: middle;
 }
 
 #photocover {
