@@ -48,7 +48,8 @@ font-size : 30px;
 }
 
 .centerthis {
-	text-align: middle;
+	text-align: center;
+	vertical-align: middle
 }
 
 #photocover {
