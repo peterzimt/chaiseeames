@@ -47,7 +47,12 @@ font-size : 30px;
 
 }
 
-#centerthis {
+#centerthis h1{
+	text-align: center;
+	vertical-align: middle;
+}
+
+.centerthis h1{
 	text-align: center;
 	vertical-align: middle;
 }
