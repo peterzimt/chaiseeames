@@ -1,9 +1,6 @@
 /* You can put your own style here */
 
-body {
-	background-image: url("../images/backgwed.jpg") ; 
-	font-family: "open sans"
-}
+$(document).ready(main);
 
 #footer {
 	background-color : black;
@@ -33,6 +30,9 @@ body {
 height:50px;
 width: 100px;
 }
+
+
+
 
 #footer a {
 	color: #aaaaaa;
