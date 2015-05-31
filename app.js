@@ -1,4 +1,4 @@
-ar main = function() {
+var main = function() {
   $('.article').click(function() {
     $('.article').removeClass('current');
     $('.description').hide();
@@ -23,3 +23,5 @@ ar main = function() {
     }
   });
 }
+
+$(document).ready(main);
