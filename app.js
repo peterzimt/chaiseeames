@@ -20,6 +20,7 @@ var main = function() {
       
       currentArticle.removeClass('current');
       nextArticle.addClass('current');
+
     }
   });
 }
