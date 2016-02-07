@@ -234,6 +234,10 @@ color: black;
   color: #00b0ff;
 }
 
+.myCarousel {
+height: 334px;
+}
+
 .chaises-eames {
     background-color:#efefef;
     border-bottom: 1px solid #dbdbdb;
